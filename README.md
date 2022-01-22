@@ -24,12 +24,13 @@ The school district summary showed minor changes in % Passing Math and % Passing
 ![mod school sum2](https://user-images.githubusercontent.com/96350410/150653770-0697b91c-52b6-4edd-8472-fb489c3477b2.png)
 
 * How does replacing the ninth-graders' math and reading scores affect Thomas High School's performance relative to other schools?
-Replacing the minth grade math and reading scores definitely shows that Thomas High School performed a bit worse than previously thought.
+Replacing the ninth grade math and reading scores definitely shows that Thomas High School performed a bit worse than previously thought.
 
 * How does replacing the ninth-grade scores affect the following:
 
     1. Math and reading scores by grade.
     The math and reading scores for 9th grade were removed but the scores for 10-12 grades should stay the same.
+    
     ![orig math score](https://user-images.githubusercontent.com/96350410/150654002-2096708f-1288-405e-ab62-40d06970e2d9.png)
     ![mod math score](https://user-images.githubusercontent.com/96350410/150654006-b3270c5f-9a58-419b-b3c8-f6694821d8b5.png)
     
